@@ -1,89 +1,97 @@
-## Hi there! I'm RISHAB KUMAR
+# Rishab Kumar
 
-Final-Year B.Tech Student | Full-Stack Developer | MERN Stack Enthusiast | AI-Powered Applications
+Final-Year B.Tech Student | Full-Stack Developer | MERN Stack | Real-Time Systems | AI Integration
 
-Passionate about building scalable web applications, REST APIs, real-time systems, and AI-integrated solutions. I enjoy turning ideas into practical products and continuously learning modern technologies.
+Currently building production-grade web applications and exploring system design.
+Open to Software Engineering, Full-Stack, and Backend roles.
+
+---
 
 ## About Me
 
-- Final-Year B. Tech Student
-- Full-Stack Developer specializing in MERN Stack
-- Built AI-powered applications using Ollama and Mistral AI
-- Experienced in REST APIs, JWT Authentication, and Socket.IO
-- Currently improving Backend Architecture, TypeScript, and System Design
-- Seeking Software Engineering, Full-Stack, and Backend opportunities
+- Final-Year B. Tech Student transitioning into professional software engineering
+- Specialize in MERN Stack with hands-on TypeScript in production projects
+- Built AI-powered applications using Ollama and Mistral AI for local inference
+- Experienced in JWT auth, WebSocket architecture, REST API design, and CI/CD pipelines
+- Currently deepening skills in Backend Architecture, System Design, and Scalable APIs
+
+---
 
 ## Tech Stack
 
-### Frontend
-React.js • React Router • Tailwind CSS • HTML5 • CSS3 • Axios
-
-### Backend & APIs
-Node.js • Express.js • REST APIs • JWT Authentication • Socket.IO
-
-### Databases
-MongoDB • MySQL • Mongoose ODM
-
-### Languages
+**Languages:**
 JavaScript • TypeScript • Java • Python • SQL
 
-### AI & Validation
+**Frontend:**
+React.js • Redux Toolkit • React Router • Tailwind CSS • Vite • HTML5 • CSS3
+
+**Backend & APIs:**
+Node.js • Express.js • REST APIs • JWT Authentication • Socket.IO • Multer
+
+**Databases:**
+MongoDB • MySQL • Mongoose ODM
+
+**AI & Validation:**
 Ollama • Mistral AI • Zod
 
-### Tools
-Git • GitHub • Postman • VS Code • Cloudinary • Render • Vercel • Netlify
+**Tools & Platforms:**
+Git • GitHub Actions • Postman • Cloudinary • Render • Vercel • Netlify • VS Code
+
+---
 
 ## Featured Projects
 
 ### AI-Based Business Idea Analyzer
+`React.js` `Node.js` `Express.js` `Ollama` `Mistral AI`
 
-Tech Stack: 
-React.js • Node.js • Express.js • Ollama • Mistral AI
+- Built an AI platform that generates structured investor-style business reports using local LLM inference.
+- Integrated Mistral AI via Ollama for on-device inference, eliminating external API costs.
+- Implemented real-time progress tracking UI with downloadable PDF report generation.
 
-- Developed an AI-powered platform that analyzes business ideas and generates structured reports.
-- Integrated Ollama and Mistral AI for local AI inference and business evaluation.
-- Gererated downloadable PDF reports for investor-style analysis.
-- Implemented modern responsive UI with real-time progress tracking.
+[Live](https://business-idea-analyzer.vercel.app/)[Frontend Only] • [Repo](https://github.com/rishabkumar03/AI-Based-Business-Idea-Analyzer)
 
-🔗 https://business-idea-analyzer.vercel.app/
-🔗 https://github.com/rishabkumar03/AI-Based-Business-Idea-Analyzer
+---
 
 ### Dodbaa - Artist Marketplace
+`TypeScript` `React` `Node.js` `Express.js` `MongoDB` `JWT` `Cloudinary`
 
-Tech Stack:
-TypeScript • React • Node.js • Express.js • MongoDB • JWT
+- Built production-grade full-stack marketplace with modular MVC architecture across 10+ controllers.
+- Implemented JWT with access/refresh token rotation and role-based guards (user/artist/admin).
+- Configured CI/CD pipeline via GitHub Actions with separate Vercel and Render deployments.
 
-- Built a full-stack marketplace connecting artists with clients.
-- Implemented JWT authentication and role-based authorization.
-- Integrated Cloudinary for media management.
-- Developed scalable REST APIs and configured CI/CD pipeline via GitHub Actions.
+[Live](https://dodbaa.vercel.app/) • [Repo](https://github.com/rishabkumar03/Dodbaa)
 
-🔗 https://dodbaa.vercel.app/
-🔗 https://github.com/rishabkumar03/Dodbaa
+---
 
 ### Classic Chess
+`Node.js` `Express.js` `Socket.IO` `Chess.js`
 
-Tech Stack:
-Node.js • Express.js • Socket.IO • Chess.js
+- Developed real-time multiplayer chess with WebSocket based live move sync across all clients.
+- Implemented role-based player assignment (white/black/spectator) with server-side validation.
 
-- Developed multiplayer chess game with live move synchronization.
-- Implemented spectator mode and role-based player assignment.
-- Added server-side move validation using Chess.js.
-- Built real-time communication architecture with Socket.IO.
+[Live](https://classic-chess-qvts.onrender.com/) • [Repo](https://github.com/rishabkumar03/classic-chess)
 
-🔗 https://classic-chess-qvts.onrender.com/
-🔗 https://github.com/rishabkumar03/classic-chess
+---
 
 ## Currently Exploring
 
-- Advanced Node.js Patterns
 - System Design Fundamentals
-- TypeScript Best Practices
-- AI Integration in Web Applications
-- Scalable Backend Architecture
+- Advanced Backend Architecture Patterns
+- TypeScript Best Practices at Scale
+- AI Integration in Production Web Applications
+
+---
 
 ## GitHub Stats
 
 ![Rishab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabkumar03&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabkumar03&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=rishabkumar03&theme=tokyonight)
+![Snake Animation](https://raw.githubusercontent.com/rishabkumar03/rishabkumar03/output/github-snake-dark.svg)
+
+---
+
+## Connect
+
+[LinkedIn](http://www.linkedin.com/in/rishab-kumar-78009627b/) • rishab.devvv3@gmail.com
+![Profile Views](https://komarev.com/ghpvc/?username=rishabkumar03&color=blue&style=flat)
